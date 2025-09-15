@@ -68,3 +68,7 @@ repos
 
 evaluation/retrieval_results*
 .venv/
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md
+.kilocode/mcp.json
